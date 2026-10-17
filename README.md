@@ -276,6 +276,7 @@ Optimized semantic processing for professional and regulated fields.
 | **AI Agents Healthcare** | Modeling for FHIR compliance and US revenue analysis. | Various | API-based | Library | [Link](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) |
 | **OpenClaw Medical Skills** | Pre-trained operations on biomedical variables. | Python | Hybrid | Web UI | [Link](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
 | **HealthcareAgent** | Unification of logic layers and interfaces in clinical applications. | Python/Java | API-based | Library | [Link](https://github.com/AI-Hub-Admin/HealthcareAgent) |
+| **CareJobs.Now MCP** | Remote MCP server for US healthcare job search: open jobs, posted pay, employers and states. | TypeScript | N/A | Library | [Link](https://github.com/yumaheymans/carejobs-mcp) |
 
 ### Legal and Auditing
 | Project | Description | Stack | Engine | Deployment | Link |
